@@ -2,4 +2,4 @@
 
 ## Orientações:
 1. Baixe e installe o processing em sua maquina (https://processing.org/download)
-2. Execute o arquivo main.pde (atraves da IDE do processing) para rodar o jogo.
+2. Execute o arquivo main.pde (através da IDE do processing) para rodar o jogo.
