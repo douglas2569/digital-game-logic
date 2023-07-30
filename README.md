@@ -8,4 +8,4 @@ Jogos desenvolvidos no decorrer do 1° e 2° semestres do curso Sistemas e Mídi
    
 ### Orientações:
 1. Baixe e installe o processing em sua maquina (https://processing.org/download)
-2. Execute o arquivo main.pde (através da IDE do processing) para rodar o jogo.
+2. Execute o arquivo main.pde, através da IDE do processing, para rodar o jogo.
